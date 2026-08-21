@@ -48,7 +48,7 @@ The dashboard helps users monitor financial performance, identify trends, compar
 
 ## Dashboard Preview
 
-[![Business Performance Dashboard](https://github.com/mugil26/Business-Performance-Dashboard/blob/main/Screenshot%202026-08-21%20110804.png)]
+![Business Performance Dashboard](https://github.com/mugil26/Business-Performance-Dashboard/blob/main/Screenshot%202026-08-21%20110804.png)
 
 ## Project Description
 
